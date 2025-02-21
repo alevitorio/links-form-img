@@ -17,12 +17,13 @@ O HTML permite estruturar o conteúdo textual de uma página com diversas tags:
 
 - **`<a href="URL">`**: 🔗 Cria um hyperlink para outra página ou recurso externo.
   - Atributos úteis: `target="_blank"` (abre o link em uma nova aba) e `rel="noopener noreferrer"` (melhora a segurança para links externos).
-[docs elemento img](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/a)
+
 Exemplo de um hyperlink:
 
 ```html
 <a href="https://www.example.com" target="_blank">Visite o site</a>
 ```
+[docs elemento a](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/a)
 
 ## 🖼️ Imagens, Vetores SVG e Outros Conteúdos Embutidos
 
@@ -43,6 +44,7 @@ Exemplo de imagem com texto alternativo:
 <img src="imagem.jpg" alt="Descrição da imagem">
 ```
 [docs elemento img](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/img)
+
 ## 📊 Tabelas
 
 As tabelas são usadas para exibir dados tabulares de maneira organizada:
@@ -74,6 +76,7 @@ Exemplo de tabela:
 </table>
 ```
 [docs elemento table](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/table)
+
 ## 📝 Formulários
 
 Os formulários permitem a interação do usuário com a página, permitindo entradas de dados:

@@ -23,6 +23,7 @@ Exemplo de um hyperlink:
 ```html
 <a href="https://www.example.com" target="_blank">Visite o site</a>
 ```
+[docs elemento a](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/a)
 
 ## 🖼️ Imagens, Vetores SVG e Outros Conteúdos Embutidos
 
@@ -42,6 +43,7 @@ Exemplo de imagem com texto alternativo:
 ```html
 <img src="imagem.jpg" alt="Descrição da imagem">
 ```
+[docs elemento img](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/img)
 
 ## 📊 Tabelas
 
@@ -73,6 +75,7 @@ Exemplo de tabela:
   </tr>
 </table>
 ```
+[docs elemento table](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/table)
 
 ## 📝 Formulários
 
@@ -111,6 +114,7 @@ Exemplo de formulário com `<fieldset>` e `<legend>`:
   <button type="submit">Enviar</button>
 </form>
 ```
+[doc eleemento form](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
 
 ---
 
